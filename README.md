@@ -6,7 +6,7 @@ Conforme pedido, aplicamos dois padrões GRASP principais para garantir um códi
 
 Escolhemos Controller e Creator porque são os padrões ideais para estruturar a entrada de dados e a criação de objetos em um sistema simples, como o de pedidos.
 
-Em resumo, Controller e Creator formam o esqueleto funcional de um sistema de software, os fazendo ser a dupla mais lógica e direta para o exercício prático.
+Em resumo, Controller e Creator formam o esqueleto funcional de um sistema de software, os fazendo ser a dupla mais lógica e direta para o exercício.
 
 ### 1. Creator
 
